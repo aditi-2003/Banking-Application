@@ -1,0 +1,1 @@
+This is a simple banking application built using Spring Boot framework. The application allows users to create accounts, perform transactions such as deposit and withdrawal, and fetch account details. Fetch the previous transaction history with time stamp and as well handled each type of exception.
